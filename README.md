@@ -10,6 +10,7 @@ Data Scientist | AI Engineer
 📫 Let’s talk AI!
 
 Email: amirhoseinmohammadisabet@gmail.com
+
 LinkedIn: linkedin.com/in/amirhoseinmohammadisabet
 
 <!---
