@@ -8,8 +8,9 @@ Data Scientist | AI Engineer
 🔹 Past Projects: AI chatbots, crypto predictors, ECG biometrics, and fish classification (yes, really).
 
 📫 Let’s talk AI!
-→ Email: amirhoseinmohammadisabet@gmail.com
-→ LinkedIn: linkedin.com/in/amirhoseinmohammadisabet
+
+Email: amirhoseinmohammadisabet@gmail.com
+LinkedIn: linkedin.com/in/amirhoseinmohammadisabet
 
 <!---
 amirhoseinmohammadisabet/amirhoseinmohammadisabet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
