@@ -2,7 +2,9 @@
 Data Scientist | AI Engineer
 
 🔹 Working on: Optimizing YOLO models for robotics at Singer Instruments.
+
 🔹 Skills: Machine Learning, Computer Vision, Python, Data Analysis.
+
 🔹 Past Projects: AI chatbots, crypto predictors, ECG biometrics, and fish classification (yes, really).
 
 📫 Let’s talk AI!
